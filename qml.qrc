@@ -1,0 +1,88 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>regions/Алтайский край.txt</file>
+        <file>regions/Амурская область.txt</file>
+        <file>regions/Архангельская область.txt</file>
+        <file>regions/Астраханская область.txt</file>
+        <file>regions/Белгородская область.txt</file>
+        <file>regions/Брянская область.txt</file>
+        <file>regions/Владимирская область.txt</file>
+        <file>regions/Волгоградская область.txt</file>
+        <file>regions/Вологодская область.txt</file>
+        <file>regions/Воронежская область.txt</file>
+        <file>regions/Еврейская АО.txt</file>
+        <file>regions/Забайкальский Край.txt</file>
+        <file>regions/Ивановская область.txt</file>
+        <file>regions/Ингушская республика.txt</file>
+        <file>regions/Иркутская область.txt</file>
+        <file>regions/Калининградская область.txt</file>
+        <file>regions/Калужская область.txt</file>
+        <file>regions/Камчатский край.txt</file>
+        <file>regions/Карельская республике.txt</file>
+        <file>regions/Кемеровская область.txt</file>
+        <file>regions/Кировская область.txt</file>
+        <file>regions/Костромкая область.txt</file>
+        <file>regions/Краснодарский край.txt</file>
+        <file>regions/Красноярский край.txt</file>
+        <file>regions/Курганская область.txt</file>
+        <file>regions/Курская область.txt</file>
+        <file>regions/Ленинградская область.txt</file>
+        <file>regions/Липецкая область.txt</file>
+        <file>regions/Магаданская область.txt</file>
+        <file>regions/Москва.txt</file>
+        <file>regions/Московская область.txt</file>
+        <file>regions/Мурманская область.txt</file>
+        <file>regions/Ненецкий АО.txt</file>
+        <file>regions/Нижегородская область.txt</file>
+        <file>regions/Новгородская область.txt</file>
+        <file>regions/Новосибирская область.txt</file>
+        <file>regions/Омская область.txt</file>
+        <file>regions/Оренбургская область.txt</file>
+        <file>regions/Орловская область.txt</file>
+        <file>regions/Пензенская область.txt</file>
+        <file>regions/Пермский край.txt</file>
+        <file>regions/Приморский край.txt</file>
+        <file>regions/Псковская область.txt</file>
+        <file>regions/Республика Адыгея.txt</file>
+        <file>regions/Республика Алтай.txt</file>
+        <file>regions/Республика Башкортостан.txt</file>
+        <file>regions/Республика Бурятия.txt</file>
+        <file>regions/Республика Дагестан.txt</file>
+        <file>regions/Республика Кабардино-Балкария.txt</file>
+        <file>regions/Республика Калмыкия.txt</file>
+        <file>regions/Республика Карачаево-Черкессия.txt</file>
+        <file>regions/Республика Коми.txt</file>
+        <file>regions/Республика Марий Эл.txt</file>
+        <file>regions/Республика Мордовия.txt</file>
+        <file>regions/Республика Тыва.txt</file>
+        <file>regions/Ростовская область.txt</file>
+        <file>regions/Рязаньская область.txt</file>
+        <file>regions/Самарская область.txt</file>
+        <file>regions/Санкт-Петербург.txt</file>
+        <file>regions/Саратовская область.txt</file>
+        <file>regions/Саха (Якутия).txt</file>
+        <file>regions/Сахалинская область.txt</file>
+        <file>regions/Свердловская область.txt</file>
+        <file>regions/Северная Осетия.txt</file>
+        <file>regions/Смоленская область.txt</file>
+        <file>regions/Ставрапольский край.txt</file>
+        <file>regions/Тамбовская область.txt</file>
+        <file>regions/Татарстан.txt</file>
+        <file>regions/Тверская область.txt</file>
+        <file>regions/Томская область.txt</file>
+        <file>regions/Тульская область.txt</file>
+        <file>regions/Тюменская область.txt</file>
+        <file>regions/Удмуртия.txt</file>
+        <file>regions/Ульяновская область.txt</file>
+        <file>regions/Хабаровский край.txt</file>
+        <file>regions/Хакасская республика.txt</file>
+        <file>regions/Ханты-Мансийский АО.txt</file>
+        <file>regions/Челябинская область.txt</file>
+        <file>regions/Чечня.txt</file>
+        <file>regions/Чувашия.txt</file>
+        <file>regions/Чукотский АО.txt</file>
+        <file>regions/Ямало-Ненецкий АО.txt</file>
+        <file>regions/Ярославская область.txt</file>
+    </qresource>
+</RCC>
